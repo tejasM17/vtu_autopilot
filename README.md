@@ -66,7 +66,7 @@
 
 **1. Clone and install**
 ```bash
-git clone https://github.com/vikas-bhat-d/vtu-course-automation.git
+git clone https://github.com/tejasM17/vtu_autopilot.git
 cd vtu-course-automation
 npm install
 ```
@@ -324,7 +324,7 @@ MIT © Vikas Bhat D
 ## Contributing
 
 PRs and issues welcome.  
-**GitHub**: [vikas-bhat-d/vtu-course-automation](https://github.com/vikas-bhat-d/vtu-course-automation)
+**GitHub**: [vikas-bhat-d/vtu-course-automation](https://github.com/tejasM17/vtu_autopilot)
    Summary
 ========================================
 Processed: 166
@@ -370,7 +370,7 @@ Uses `index.js` for internship diary automation.
 Already have **Git** and **Node.js** installed? Run VTU Autopilot on your own system in 3 commands — no external servers needed. This saves resources for other students.
 
 ```bash
-git clone https://github.com/vikas-bhat-d/vtu-course-automation && cd vtu-course-automation && npm install
+git clone https://github.com/tejasM17/vtu_autopilot && cd vtu-course-automation && npm install
 npm run serve
 ```
 

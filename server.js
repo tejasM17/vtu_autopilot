@@ -31,7 +31,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const GITHUB_URL =
-  process.env.GITHUB_URL || "https://github.com/vikas-bhat-d/vtu-course-automation";
+  process.env.GITHUB_URL || "https://github.com/tejasM17/vtu_autopilot";
 
 
 // ── Runtime-configurable settings ────────────────────────────────────────────
